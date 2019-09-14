@@ -1,7 +1,7 @@
 package jo.secondstep.helper;
 
 public class WrongKeyExeption extends Exception {
-
+ 
 	/**
 	 * Default serial version UID
 	 */

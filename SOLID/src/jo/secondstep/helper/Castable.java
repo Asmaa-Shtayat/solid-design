@@ -1,6 +1,6 @@
 package jo.secondstep.helper;
 
-public interface Castable {
+public interface Castable { 
 
 	void addCastHandler(CastHandler castHandler);
 }

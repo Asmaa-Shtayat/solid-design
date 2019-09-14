@@ -7,7 +7,7 @@ import jo.secondstep.helper.WrongKeyExeption;
 import jo.secondstep.item.Item;
 import jo.secondstep.spell.Spell;
 
-public abstract class Hero {
+public abstract class Hero { 
 
 	private String name;
 	private double damage;

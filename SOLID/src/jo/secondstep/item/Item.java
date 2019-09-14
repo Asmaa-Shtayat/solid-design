@@ -5,7 +5,7 @@ public abstract class Item {
 	private String name;
 	private String description;
 	private String effect;
-	
+	 
 	public abstract void cast();
 
 	public String getName() {

@@ -4,7 +4,7 @@ import jo.secondstep.helper.CastHandler;
 import jo.secondstep.helper.Castable;
 
 public class ActiveSpell extends Spell implements Castable{
-
+ 
 	private int cooldown;
 	private double manaCost;
 

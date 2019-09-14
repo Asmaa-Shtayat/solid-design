@@ -18,7 +18,7 @@ import jo.secondstep.spell.Spell;
 public class MainApp {
 
 	public static void main(String[] args) {
-
+ 
 		Hero axe = new MeleeHero();
 		axe.setName("Axe");
 		axe.setHealth(200);

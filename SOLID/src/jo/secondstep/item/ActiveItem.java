@@ -4,7 +4,7 @@ import jo.secondstep.helper.CastHandler;
 import jo.secondstep.helper.Castable;
 
 public class ActiveItem extends Item implements Castable {
-
+ 
 	private int cooldown;
 	private double manaCost;
 	private CastHandler castHandler;

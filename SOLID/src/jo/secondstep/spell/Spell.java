@@ -8,7 +8,7 @@ public abstract class Spell {
 
 	public abstract void cast();
 
-	public String getName() {
+	public String getName() { 
 		return name;
 	}
 
